@@ -1,0 +1,1 @@
+{"version":3,"file":"generateFreeIdentifier.js","sourceRoot":"","sources":["../../src/utils/generateFreeIdentifier.ts"],"names":[],"mappings":";;;AAAA,2GAA2G;AAC3G,MAAM,UAAU,GAAG,4BAA4B,CAAC,KAAK,CAAC,EAAE,CAAC,CAAC;AAC1D,SAAgB,sBAAsB,CAAC,eAAyB;IAC9D,OAAO,UAAU,CAAC,IAAI,CAAC,CAAC,CAAC,EAAE,CAAC,eAAe,CAAC,OAAO,CAAC,CAAC,CAAC,GAAG,CAAC,CAAE,CAAC;AAC/D,CAAC;AAFD,wDAEC"}

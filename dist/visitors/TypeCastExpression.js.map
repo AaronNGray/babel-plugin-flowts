@@ -1,0 +1,1 @@
+{"version":3,"file":"TypeCastExpression.js","sourceRoot":"","sources":["../../src/visitors/TypeCastExpression.ts"],"names":[],"mappings":";;;AAEA,uFAAoF;AACpF,sDAAmD;AAEnD,SAAgB,kBAAkB,CAAC,IAAoC;IACrE,yBAAW,CAAC,IAAI,EAAE,qDAAyB,CAAC,IAAI,CAAC,IAAI,CAAC,CAAC,CAAC;AAC1D,CAAC;AAFD,gDAEC"}

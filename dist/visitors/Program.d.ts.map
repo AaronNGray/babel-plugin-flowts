@@ -1,0 +1,1 @@
+{"version":3,"file":"Program.d.ts","sourceRoot":"","sources":["../../src/visitors/Program.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,CAAC,MAAM,cAAc,CAAC;AAClC,OAAO,EAAE,QAAQ,EAAQ,MAAM,iBAAiB,CAAC;AAIjD,eAAO,MAAM,OAAO;gBACN,QAAQ,CAAC,CAAC,CAAC,OAAO,CAAC;eA6BpB,QAAQ,CAAC,CAAC,CAAC,OAAO,CAAC;CA6K/B,CAAC"}

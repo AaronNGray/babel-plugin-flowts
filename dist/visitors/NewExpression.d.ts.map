@@ -1,0 +1,1 @@
+{"version":3,"file":"NewExpression.d.ts","sourceRoot":"","sources":["../../src/visitors/NewExpression.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,CAAC,MAAM,cAAc,CAAC;AAClC,OAAO,EAAE,QAAQ,EAAE,MAAM,iBAAiB,CAAC;AAI3C,wBAAgB,aAAa,CAAC,IAAI,EAAE,QAAQ,CAAC,CAAC,CAAC,aAAa,CAAC,QAQ5D"}

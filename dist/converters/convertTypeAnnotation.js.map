@@ -1,0 +1,1 @@
+{"version":3,"file":"convertTypeAnnotation.js","sourceRoot":"","sources":["../../src/converters/convertTypeAnnotation.ts"],"names":[],"mappings":";;;;;;;;;;;;;;;;;;;;;;AAAA,gDAAkC;AAClC,uDAAoD;AACpD,0DAAuD;AAEvD,SAAgB,qBAAqB,CACnC,IAAsB;IAEtB,OAAO,CAAC,CAAC,gBAAgB,iCACpB,iCAAe,CAAC,IAAI,CAAC,cAAc,CAAC,GACpC,6BAAa,CAAC,IAAI,CAAC,cAAc,CAAC,EACrC,CAAC;AACL,CAAC;AAPD,sDAOC"}

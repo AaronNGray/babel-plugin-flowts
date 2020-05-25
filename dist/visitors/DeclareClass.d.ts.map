@@ -1,0 +1,1 @@
+{"version":3,"file":"DeclareClass.d.ts","sourceRoot":"","sources":["../../src/visitors/DeclareClass.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,CAAC,MAAM,cAAc,CAAC;AAClC,OAAO,EAAE,QAAQ,EAAE,MAAM,iBAAiB,CAAC;AAG3C,OAAO,EAAE,UAAU,EAAE,MAAM,UAAU,CAAC;AAEtC,wBAAgB,YAAY,CAC1B,IAAI,EAAE,QAAQ,CAAC,CAAC,CAAC,YAAY,CAAC,EAC9B,KAAK,EAAE,UAAU,QAMlB"}

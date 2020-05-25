@@ -1,0 +1,1 @@
+{"version":3,"file":"convertFlowIdentifier.d.ts","sourceRoot":"","sources":["../../src/converters/convertFlowIdentifier.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,CAAC,MAAM,cAAc,CAAC;AAGlC,wBAAgB,qBAAqB,CACnC,EAAE,EAAE,CAAC,CAAC,uBAAuB,GAAG,CAAC,CAAC,UAAU,GAC3C,CAAC,CAAC,eAAe,GAAG,CAAC,CAAC,UAAU,CAKlC"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"DeclareOpaqueType.d.ts","sourceRoot":"","sources":["../../src/visitors/DeclareOpaqueType.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,QAAQ,EAAE,MAAM,iBAAiB,CAAC;AAC3C,OAAO,KAAK,CAAC,MAAM,cAAc,CAAC;AAGlC,OAAO,EAAE,UAAU,EAAE,MAAM,UAAU,CAAC;AAEtC,wBAAgB,iBAAiB,CAC/B,IAAI,EAAE,QAAQ,CAAC,CAAC,CAAC,iBAAiB,CAAC,EACnC,KAAK,EAAE,UAAU,QAgBlB"}

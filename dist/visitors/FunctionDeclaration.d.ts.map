@@ -1,0 +1,1 @@
+{"version":3,"file":"FunctionDeclaration.d.ts","sourceRoot":"","sources":["../../src/visitors/FunctionDeclaration.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,CAAC,MAAM,cAAc,CAAC;AAClC,OAAO,EAAE,QAAQ,EAAE,MAAM,iBAAiB,CAAC;AAG3C,wBAAgB,mBAAmB,CAAC,IAAI,EAAE,QAAQ,CAAC,CAAC,CAAC,mBAAmB,CAAC,QAIxE"}

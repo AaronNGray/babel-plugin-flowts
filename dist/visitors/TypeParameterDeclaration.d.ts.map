@@ -1,0 +1,1 @@
+{"version":3,"file":"TypeParameterDeclaration.d.ts","sourceRoot":"","sources":["../../src/visitors/TypeParameterDeclaration.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,CAAC,MAAM,cAAc,CAAC;AAClC,OAAO,EAAE,QAAQ,EAAE,MAAM,iBAAiB,CAAC;AAI3C,wBAAgB,wBAAwB,CACtC,IAAI,EAAE,QAAQ,CAAC,CAAC,CAAC,wBAAwB,CAAC,QAG3C"}

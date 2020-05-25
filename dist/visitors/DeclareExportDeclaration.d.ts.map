@@ -1,0 +1,1 @@
+{"version":3,"file":"DeclareExportDeclaration.d.ts","sourceRoot":"","sources":["../../src/visitors/DeclareExportDeclaration.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,QAAQ,EAAE,MAAM,iBAAiB,CAAC;AAC3C,OAAO,KAAK,CAAC,MAAM,cAAc,CAAC;AAUlC,wBAAgB,wBAAwB,CACtC,IAAI,EAAE,QAAQ,CAAC,CAAC,CAAC,wBAAwB,CAAC,QA2D3C"}

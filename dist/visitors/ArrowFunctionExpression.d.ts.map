@@ -1,0 +1,1 @@
+{"version":3,"file":"ArrowFunctionExpression.d.ts","sourceRoot":"","sources":["../../src/visitors/ArrowFunctionExpression.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,CAAC,MAAM,cAAc,CAAC;AAClC,OAAO,EAAE,QAAQ,EAAE,MAAM,iBAAiB,CAAC;AAI3C,OAAO,EAAE,UAAU,EAAE,MAAM,UAAU,CAAC;AAEtC,wBAAgB,uBAAuB,CACrC,IAAI,EAAE,QAAQ,CAAC,CAAC,CAAC,uBAAuB,CAAC,EACzC,KAAK,EAAE,UAAU,QAkBlB"}

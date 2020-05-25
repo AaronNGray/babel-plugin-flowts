@@ -1,0 +1,1 @@
+{"version":3,"file":"DeclareModule.d.ts","sourceRoot":"","sources":["../../src/visitors/DeclareModule.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,QAAQ,EAAE,MAAM,iBAAiB,CAAC;AAC3C,OAAO,KAAK,CAAC,MAAM,cAAc,CAAC;AAGlC,OAAO,EAAE,UAAU,EAAE,MAAM,UAAU,CAAC;AAEtC,eAAO,MAAM,aAAa;gBACZ,QAAQ,CAAC,CAAC,CAAC,aAAa,CAAC,SAAS,UAAU;YAmBhD,QAAQ,CAAC,CAAC,CAAC,aAAa,CAAC,SAAS,UAAU;CAGrD,CAAC"}

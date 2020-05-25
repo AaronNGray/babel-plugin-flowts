@@ -1,0 +1,1 @@
+{"version":3,"file":"TypeAnnotation.d.ts","sourceRoot":"","sources":["../../src/visitors/TypeAnnotation.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,CAAC,MAAM,cAAc,CAAC;AAClC,OAAO,EAAE,QAAQ,EAAE,MAAM,iBAAiB,CAAC;AAI3C,wBAAgB,cAAc,CAAC,IAAI,EAAE,QAAQ,CAAC,CAAC,CAAC,cAAc,CAAC,QAE9D"}

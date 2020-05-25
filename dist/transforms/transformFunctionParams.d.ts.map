@@ -1,0 +1,1 @@
+{"version":3,"file":"transformFunctionParams.d.ts","sourceRoot":"","sources":["../../src/transforms/transformFunctionParams.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,QAAQ,EAAE,MAAM,iBAAiB,CAAC;AAC3C,OAAO,KAAK,CAAC,MAAM,cAAc,CAAC;AA4ClC,wBAAgB,uBAAuB,CACrC,MAAM,EAAE,KAAK,CACX,QAAQ,CAAC,CAAC,CAAC,UAAU,GAAG,CAAC,CAAC,OAAO,GAAG,CAAC,CAAC,WAAW,GAAG,CAAC,CAAC,mBAAmB,CAAC,CAC3E,QAiEF"}

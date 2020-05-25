@@ -1,0 +1,1 @@
+{"version":3,"file":"TSModuleDeclaration.js","sourceRoot":"","sources":["../../src/visitors/TSModuleDeclaration.ts"],"names":[],"mappings":";;;AAIa,QAAA,mBAAmB,GAAG;IACjC,KAAK,CAAC,KAAsC,EAAE,KAAiB;QAC7D,KAAK,CAAC,GAAG,CAAC,qBAAqB,EAAE,IAAI,CAAC,CAAC;IACzC,CAAC;IACD,IAAI,CAAC,CAAkC,EAAE,KAAiB;QACxD,KAAK,CAAC,GAAG,CAAC,qBAAqB,EAAE,KAAK,CAAC,CAAC;IAC1C,CAAC;CACF,CAAC"}

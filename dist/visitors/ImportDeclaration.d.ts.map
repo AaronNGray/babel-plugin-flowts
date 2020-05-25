@@ -1,0 +1,1 @@
+{"version":3,"file":"ImportDeclaration.d.ts","sourceRoot":"","sources":["../../src/visitors/ImportDeclaration.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,CAAC,MAAM,cAAc,CAAC;AAClC,OAAO,EAAE,QAAQ,EAAE,MAAM,iBAAiB,CAAC;AAE3C,wBAAgB,iBAAiB,CAAC,IAAI,EAAE,QAAQ,CAAC,CAAC,CAAC,iBAAiB,CAAC,QAyGpE"}

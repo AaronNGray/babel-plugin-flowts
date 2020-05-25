@@ -1,0 +1,1 @@
+{"version":3,"file":"TypeCastExpression.d.ts","sourceRoot":"","sources":["../../src/visitors/TypeCastExpression.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,CAAC,MAAM,cAAc,CAAC;AAClC,OAAO,EAAE,QAAQ,EAAE,MAAM,iBAAiB,CAAC;AAI3C,wBAAgB,kBAAkB,CAAC,IAAI,EAAE,QAAQ,CAAC,CAAC,CAAC,kBAAkB,CAAC,QAEtE"}

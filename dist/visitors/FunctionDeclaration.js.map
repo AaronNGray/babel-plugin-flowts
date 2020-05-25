@@ -1,0 +1,1 @@
+{"version":3,"file":"FunctionDeclaration.js","sourceRoot":"","sources":["../../src/visitors/FunctionDeclaration.ts"],"names":[],"mappings":";;;AAEA,mFAAgF;AAEhF,SAAgB,mBAAmB,CAAC,IAAqC;IACvE,iDAAuB,CAAC,IAAI,CAAC,GAAG,CAAC,QAAQ,CAAC,CAAC,CAAC;IAC5C,kCAAkC;IAClC,IAAI,CAAC,GAAG,CAAC,WAAW,CAAC,CAAC,MAAM,EAAE,CAAC;AACjC,CAAC;AAJD,kDAIC"}
